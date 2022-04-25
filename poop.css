@@ -57,7 +57,6 @@ button {
 
 button:active {
   background-color: rgba(153, 123, 77, 0.54);
-  padding: 0 2px 2px 2px;
 }
 
 @keyframes spin {
